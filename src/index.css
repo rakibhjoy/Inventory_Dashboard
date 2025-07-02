@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f6fa;
+  color: #222;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
+
+.app.dark {
+  background: #181a20;
+  color: #f4f6fa;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  background: inherit;
+} 
