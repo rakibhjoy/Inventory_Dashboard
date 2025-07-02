@@ -4,8 +4,9 @@ A **modern, responsive inventory and sales management dashboard** built with **R
 
 ---
 ## 🖼️ Screenshots
+![Home Page](./sreenshots/s1.png)
+![Home Page](./sreenshots/s2.png)
 
-(./sreenshots/s1.png)
 ## ✨ Features
 
 * **📋 Dashboard Overview:**
