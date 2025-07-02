@@ -94,27 +94,3 @@ npm run build
 * Update navigation items in `src/components/Sidebar.tsx`
 * Configure routes in `src/App.tsx`
 * Create new modules inside `src/modules/` to extend features
-
----
-
-### 📌 Dashboard Overview
-
-![Dashboard Overview](./public/screenshots/dashboard.png)
-
-### 📦 Product Management
-
-![Product Management](./public/screenshots/products.png)
-
-### 📉 Stock Tracking
-
-![Stock Page](./public/screenshots/stock.png)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like a Markdown file generated or help with uploading screenshots or adding a GitHub Pages preview.
